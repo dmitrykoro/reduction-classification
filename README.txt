@@ -10,6 +10,7 @@ Obtain results for Part I: Dimensionality Reduction
 Obtain results for Part II: Classification
 Assuming that dependencies are installed, 
 1. python src/face-recognition.py
+2. python src/face-classification.py
 
 [ the execution may take up to 10 minutes, depending on the hardware ]
 [ the results will be saved in out/ directory ]
